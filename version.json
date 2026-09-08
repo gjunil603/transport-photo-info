@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.1.0/TransportPhoto-1.1.0-release.apk",
+  "sha256": "bcbfe300672bc667d182c1e4c4ac82a734598a03899a195b7d129c326a909141",
+  "releaseNotes": "수동 업데이트 기능을 추가했습니다. 다운로드한 APK의 무결성과 앱 서명을 확인한 뒤 설치합니다."
+}
