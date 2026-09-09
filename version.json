@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.2.0/TransportPhoto-1.2.0-release.apk",
-  "sha256": "59842aa4835f7aa672ca0eb3d301a97e55ccd5e2482eb3fbd2f73eb651549db3",
-  "releaseNotes": "Drive 자동 백업 대기시간을 추가했습니다. 기본 15분이며 즉시·5분·15분·30분·1시간 중 선택할 수 있습니다."
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.3.0/TransportPhoto-1.3.0-release.apk",
+  "sha256": "fe49fd58fba2f18dbaa2781bf276471ff874a97a7f62f12940f6c26ace8f82b2",
+  "releaseNotes": "홈에 오늘·최근 7일·백업 대기·자동 삭제 제외 필터를 추가했습니다. 기록을 길게 눌러 자동 삭제 제외를 설정하거나 해제하고, 확인 후 기록을 삭제할 수 있습니다."
 }
