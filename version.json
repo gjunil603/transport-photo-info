@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.4.1/TransportPhoto-1.4.1-release.apk",
-  "sha256": "223975f68851b2949e85b0c31247985aba88ef0f6fa1d37b0c4600645aa33d1e",
-  "releaseNotes": "Drive 기록별 폴더 이동과 자동 삭제가 겹쳐도 기록이 안전하게 유지되도록 개선했습니다. 로컬 사진 삭제 후 정보 수정, 업로드 중 재편집, 대표 차량번호 동기화와 Drive 서버 주소 검증을 보강했습니다."
+  "versionCode": 8,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.5.0/TransportPhoto-1.5.0-release.apk",
+  "sha256": "22e5682e0b4510716307dd6afcd6fa1cbdd8f7a45fbe2b1ea783efdf3687b23a",
+  "releaseNotes": "Drive 사진 자동 정리 기능을 추가했습니다. 앱이 백업한 사진만 보관기간 후 휴지통으로 이동하며, 업로드 중 기록 삭제와 계정 접근 실패에도 추적정보를 안전하게 유지합니다. Drive 폴더는 자동으로 삭제하지 않습니다."
 }
