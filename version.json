@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3.1",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.3.1/TransportPhoto-1.3.1-release.apk",
-  "sha256": "780bc7fe9920fe3171ba31d389b916c80d5aa5abd136538ec6a8dbdeeb471b16",
-  "releaseNotes": "자동 사진 정리를 인터넷 연결 상태에서 실행하고, 일시적인 Drive 검증 실패는 안전하게 재시도하도록 개선했습니다. 설정 화면에서 마지막 정리 결과와 보류 이유를 확인할 수 있습니다."
+  "versionCode": 6,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.4.0/TransportPhoto-1.4.0-release.apk",
+  "sha256": "f8bc6811167de992c40099361e6645bd236410e17932caa4be2aef422fdbca45",
+  "releaseNotes": "Google Drive 백업을 날짜·차량번호·고유 기록·운행 구간·출발/도착 폴더로 분리했습니다. 같은 날 같은 차량을 여러 번 기록해도 섞이지 않으며, 기존 백업 사진도 재업로드 없이 새 기록별 폴더로 이동합니다."
 }
