@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.6.1",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.6.1/TransportPhoto-1.6.1-release.apk",
-  "sha256": "9346fc8612cc7893a9626cd7c5f93df182f15a011bb9c3c262b6a1060bdc4c48",
-  "releaseNotes": "Drive 복원 안전성을 강화했습니다. 사진 검증이나 다운로드가 한 장이라도 실패하면 전체 복원을 취소하며, 저장공간을 미리 확인합니다. 최근 복원 백업 10개를 보존하고 선택할 수 있고, 동시 백업과 삭제 반영 지연으로 인한 백업 정보 불일치를 방지했습니다."
+  "versionCode": 11,
+  "versionName": "1.6.2",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.6.2/TransportPhoto-1.6.2-release.apk",
+  "sha256": "93703dee906be77a4bc97ce5dd076dc884ca8bff07c302b2bee07f2782133cf7",
+  "releaseNotes": "원본 사진이 이미 휴지통에 있거나 삭제된 경우 자동 정리가 계속 보류되던 문제를 수정했습니다. 여러 원본 중 일부 처리에 실패해도 나머지 사진은 모두 정리를 시도하며, 실제로 처리되지 않은 원본이 있을 때만 안전하게 보류합니다."
 }
