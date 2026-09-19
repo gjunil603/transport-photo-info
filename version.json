@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.8.0",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.0/TransportPhoto-1.8.0-release.apk",
-  "sha256": "ab5540c64c1457022171c63666fe3773353d1937fa802e69fdf489b06bc26387",
-  "releaseNotes": "최근 기록에 기간 지정 필터를 추가했습니다. 달력에서 시작일과 종료일을 선택해 원하는 기간의 기록만 확인할 수 있으며, 같은 날짜 조회, 기간 변경과 초기화도 지원합니다. 기존 기록, 사진과 설정값은 그대로 유지됩니다."
+  "versionCode": 16,
+  "versionName": "1.8.1",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.1/TransportPhoto-1.8.1-release.apk",
+  "sha256": "04c0900257fd5a4c3b9f429e1bcfac0cff9eb980f2f85b2c02bb34eb119156d1",
+  "releaseNotes": "기간 지정 필터를 사용한 뒤 전체, 오늘, 최근 7일, 백업 대기 또는 자동 삭제 제외 필터를 선택하면 기존 기간 값과 표시가 자동으로 초기화됩니다. 앱을 종료하지 않고 한 번의 선택으로 다른 필터로 전환할 수 있습니다."
 }
