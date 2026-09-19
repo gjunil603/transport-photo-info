@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.8.1",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.1/TransportPhoto-1.8.1-release.apk",
-  "sha256": "04c0900257fd5a4c3b9f429e1bcfac0cff9eb980f2f85b2c02bb34eb119156d1",
-  "releaseNotes": "기간 지정 필터를 사용한 뒤 전체, 오늘, 최근 7일, 백업 대기 또는 자동 삭제 제외 필터를 선택하면 기존 기간 값과 표시가 자동으로 초기화됩니다. 앱을 종료하지 않고 한 번의 선택으로 다른 필터로 전환할 수 있습니다."
+  "versionCode": 17,
+  "versionName": "1.8.2",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.2/TransportPhoto-1.8.2-release.apk",
+  "sha256": "5455b2aa1d3dd139545f982c2b34071dcac2e6918f5717b6cbe7b7e58951feb2",
+  "releaseNotes": "새 업데이트가 있으면 홈의 설정 버튼과 설정 메뉴의 앱 업데이트 항목에 작은 느낌표가 표시됩니다. 기존의 큰 안내는 제거했습니다."
 }
