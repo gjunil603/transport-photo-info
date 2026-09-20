@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.8.4",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.4/TransportPhoto-1.8.4-release.apk",
-  "sha256": "8e24ae204ee73bce6a5c2ccc116ee4121474c02640e9443553306abdac360e64",
-  "releaseNotes": "앱을 실행하거나 다시 화면으로 돌아올 때 보관기간이 지난 갤러리 원본을 확인합니다. 미디어 관리 특별 권한이 허용된 경우 Android 공식 휴지통·삭제 요청으로 자동 정리하고, 성공한 뒤 앱 내부 복사본 정리를 이어갑니다. 대량 사진은 2,000장씩 안전하게 나누어 처리합니다."
+  "versionCode": 20,
+  "versionName": "1.8.5",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.5/TransportPhoto-1.8.5-release.apk",
+  "sha256": "ae2d48aecb94968168f85fbcccf564606cb45a4ff5b54de16b015722b1450ebd",
+  "releaseNotes": "앱을 새로 실행할 때마다 업데이트 서버를 즉시 확인하도록 개선했습니다. 새로운 버전이 있으면 홈의 설정 버튼과 업데이트 항목에 느낌표가 표시됩니다. 인터넷 연결이 없거나 서버 확인에 실패하면 마지막으로 확인한 안전한 정보를 사용합니다."
 }
