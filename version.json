@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.8.2",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.2/TransportPhoto-1.8.2-release.apk",
-  "sha256": "5455b2aa1d3dd139545f982c2b34071dcac2e6918f5717b6cbe7b7e58951feb2",
-  "releaseNotes": "새 업데이트가 있으면 홈의 설정 버튼과 설정 메뉴의 앱 업데이트 항목에 작은 느낌표가 표시됩니다. 기존의 큰 안내는 제거했습니다."
+  "versionCode": 18,
+  "versionName": "1.8.3",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.3/TransportPhoto-1.8.3-release.apk",
+  "sha256": "cc24b03939d7c00f025e7bb64d59a0012facb313a819279e16fc45ba8e4dc2fd",
+  "releaseNotes": "Drive 재연결, 반복된 백업 실패, 사진 정리 보류를 알려주는 문제 알림 기능을 추가했습니다. 알림을 누르면 관련 설정 화면으로 이동하며 홈과 설정에 문제 배지가 표시됩니다. 설치 후 설정의 문제 알림에서 기능을 켜주세요."
 }
