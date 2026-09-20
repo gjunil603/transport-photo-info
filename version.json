@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.8.3",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.3/TransportPhoto-1.8.3-release.apk",
-  "sha256": "cc24b03939d7c00f025e7bb64d59a0012facb313a819279e16fc45ba8e4dc2fd",
-  "releaseNotes": "Drive 재연결, 반복된 백업 실패, 사진 정리 보류를 알려주는 문제 알림 기능을 추가했습니다. 알림을 누르면 관련 설정 화면으로 이동하며 홈과 설정에 문제 배지가 표시됩니다. 설치 후 설정의 문제 알림에서 기능을 켜주세요."
+  "versionCode": 19,
+  "versionName": "1.8.4",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.4/TransportPhoto-1.8.4-release.apk",
+  "sha256": "8e24ae204ee73bce6a5c2ccc116ee4121474c02640e9443553306abdac360e64",
+  "releaseNotes": "앱을 실행하거나 다시 화면으로 돌아올 때 보관기간이 지난 갤러리 원본을 확인합니다. 미디어 관리 특별 권한이 허용된 경우 Android 공식 휴지통·삭제 요청으로 자동 정리하고, 성공한 뒤 앱 내부 복사본 정리를 이어갑니다. 대량 사진은 2,000장씩 안전하게 나누어 처리합니다."
 }
