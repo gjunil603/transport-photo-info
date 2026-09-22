@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.8.7",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.7/TransportPhoto-1.8.7-release.apk",
-  "sha256": "49d32705ca44954bf159d29aaa5e7358e15191187a5d87f10d237350206370ab",
-  "releaseNotes": "Drive 백업 진단 로그를 휴대전화 내부에 자동 기록하고 설정에서 복사할 수 있습니다. 일시적인 인터넷 오류는 연결 대기와 자동 재시도로 표시합니다. 로그는 최근 14일·최대 100항목이며 차량번호, 사진 경로, 인증정보는 기록하지 않습니다."
+  "versionCode": 23,
+  "versionName": "1.8.8",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.8/TransportPhoto-1.8.8-release.apk",
+  "sha256": "a1d04fcae03cf7128d677a1141658a3ee7709fcc73381f81c4742d2564e11f97",
+  "releaseNotes": "설정에 진단 로그 메뉴를 추가했습니다. 백업 로그를 앱 안에서 최신순으로 확인하고 전체 복사·새로고침할 수 있습니다. 기존 로그와 14일·100항목 보관 기준은 유지됩니다."
 }
