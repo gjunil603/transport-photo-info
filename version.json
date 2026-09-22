@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.8.6",
-  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.6/TransportPhoto-1.8.6-release.apk",
-  "sha256": "6146e818886f7a77ab328029cca1473ccf232bccb95b2c124e2a9b1255bbd7f2",
-  "releaseNotes": "Drive 백업이 실제 실행 중인지, 예약 또는 재시도를 기다리는지 구분해 표시합니다. 대기 중에는 지금 백업을 다시 요청할 수 있고, 백업할 수 없는 로컬 사진과 실패한 사진의 오류 정보를 확인할 수 있습니다."
+  "versionCode": 22,
+  "versionName": "1.8.7",
+  "apkUrl": "https://github.com/gjunil603/transport-photo-info/releases/download/v1.8.7/TransportPhoto-1.8.7-release.apk",
+  "sha256": "49d32705ca44954bf159d29aaa5e7358e15191187a5d87f10d237350206370ab",
+  "releaseNotes": "Drive 백업 진단 로그를 휴대전화 내부에 자동 기록하고 설정에서 복사할 수 있습니다. 일시적인 인터넷 오류는 연결 대기와 자동 재시도로 표시합니다. 로그는 최근 14일·최대 100항목이며 차량번호, 사진 경로, 인증정보는 기록하지 않습니다."
 }
